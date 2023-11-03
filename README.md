@@ -1,6 +1,6 @@
 # Automated traefik DNS resolver with SSL
 
-A fork of [Pyrou Gist]([Pyru Gist](https://gist.github.com/pyrou/4f555cd55677331c742742ee6007a73a) with some modifications that allow you to have local services accessible by myservice.traefik.me with [let's encrypt](https://letsencrypt.org/) SSL certificates without any system configuration.
+A fork of [Pyrou Gist](https://gist.github.com/pyrou/4f555cd55677331c742742ee6007a73a) with some modifications that allow you to have local services accessible by myservice.traefik.me with [let's encrypt](https://letsencrypt.org/) SSL certificates without any system configuration.
 
 ## What is this?
 
